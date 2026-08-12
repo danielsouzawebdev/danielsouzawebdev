@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá, visitante! 👋</h2>
+  <h2>Olá! 👋</h2>
   <p><strong>Instrutor Técnico & Desenvolvedor de Software e Jogos Digitais</strong></p>
   <p>Unindo lógica de programação, modelagem de dados e Game Design para criar experiências interativas e soluções eficientes.</p>
 </div>
