@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/3D_Modeling-FF7B00?style=for-the-badge&logo=blender&logoColor=white" alt="3D Modeling" />
 
 ---
-
+<!--
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -49,8 +49,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsouzawebdev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
----
-
+---*/
+-->
 ### 📫 Contatos
 
 <a href="https://www.linkedin.com/in/danielsouzaads" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
